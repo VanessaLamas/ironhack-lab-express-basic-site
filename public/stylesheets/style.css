@@ -1,0 +1,58 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin: 30px;
+}
+
+p {
+  font-size: 22px;
+  text-align: justify;
+}
+
+ul li {
+  font-size: 22px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.image-center {
+  display: block;
+  text-align: center;
+}
+
+img {
+  width: 130vh; 
+  max-width: 80%;
+  max-height: 50%;
+}
+
+div {
+    margin: 20px;
+}
+
+.buttons-style {
+  display: flex;
+  justify-content: center;
+
+}
+
+.buttons-style-margin {
+  border: 2px black solid;
+  margin: 15px;
+  font-size: 28px;
+  padding: 10px 30px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+}
